@@ -5,4 +5,5 @@
 [小说](www.56wen.com)   
 [b站](https://www.bilibili.com)   
 [网易邮箱](https://mail.163.com)   
+[搜狗](https://www.sogou.com)
 
