@@ -8,5 +8,6 @@
 [搜狗](https://www.sogou.com)   
 [轻略搜索](https://search.qinggl.com)   
 [4399](http://h.4399.com)   
-[QQ空间](https://qzone.qq.com)
+[QQ空间](https://qzone.qq.com)   
+[WPS](https://account.wps.cn)
 
