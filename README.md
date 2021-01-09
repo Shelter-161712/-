@@ -10,5 +10,6 @@
 [4399](http://h.4399.com)   
 [QQ空间](https://qzone.qq.com)   
 [WPS](https://account.wps.cn)   
-[数独](https://www.sudoku.name)
+[数独](https://www.sudoku.name)  
+[research](http://search.kunhai.xyz)
 
