@@ -13,4 +13,7 @@
 [数独](https://www.sudoku.name)  
 [research](http://search.kunhai.xyz)   
 [三维推](https://3w.cn/)
+[百度翻译](https://fanyi.baidu.com)
+
+
 
